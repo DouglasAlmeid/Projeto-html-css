@@ -19,7 +19,7 @@
 <h3>Descrição</h3>
 Esse Projeto é um projeto responsivo
 <br>
-usando html e css, conseguir deixar ele mais responsivo
+usando html e css, assim conseguir deixar ele mais responsivo
 <br>
 para ser utilizado quanto no computador quanto no celular
 <br>
